@@ -1,0 +1,71 @@
+*{
+    /* outline: 1px solid red */
+}
+body{
+    background: #FB8069;
+}
+
+#ruby{
+    /* background-color: gray; */
+     position: relative; 
+    font-size: 100px;
+    top: 10px;
+}
+#corazon{
+    font-size: 100px;
+    position: relative;
+    top: 10px;
+
+}
+#avion{
+    font-size: 100px;
+    position: relative;
+    top: 10px;
+    /* left: 10px; */
+}
+#vida{
+    position: relative;
+    top: 10px;
+    font-size: 100px;
+
+}
+#comida{
+    position: relative;
+    top: 10px;
+    font-size: 100px;
+    /* color: green; */
+}
+
+#menu{
+    position: relative;
+    background: #AE3658;
+}
+#ico1{
+    position: relative;
+    left: 20px;
+}
+.caja{
+    left: 25px;
+    float: left;
+      position:relative;    
+    margin: 10px;
+    background: #3FAE81;
+    width: 220px;
+    height: 300px;
+    color: white; 
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+#medio{
+    left: 10px;
+    color: white !important;
+}
+/* #medio:hover{
+    color: white;
+} */
+.caja:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    background: #3AFBAC;
+    color: blue;
+}
